@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi there! I'm Abhishek <br>🎓 MCA Student | 💻 Aspiring Software Engineer | 🚀 Tech Enthusiast<br>👯 I’m looking to collaborate on<br>• Open-source projects related to web development, and databases<br><br>🤝 I’m looking for help with<br>• Advanced React.js development<br>• Contributing to open-source communities<br>💬 Ask me about<br>• C, C++, Java, Python, MySQL, DBMS<br>• Problem-solving, DSA, and Web Technologies<br>⚡ Fun fact<br>• I can spend hours fixing a bug, only to realize it was a missing semicolon! 😆<br>• When I’m not coding, you’ll find me gaming and strategizing my next win! 🎮🔥<br>
+👋 Hi there! I'm Abhishek <br>🎓 MCA Student | 💻 Aspiring Web Developer ||Aspiring Software Engineer | 🚀 Tech Enthusiast<br>👯 I’m looking to collaborate on<br>• Open-source projects related to web development, and databases<br><br>🤝 I’m looking for help with<br>• Advanced React.js development<br>• Contributing to open-source communities<br>💬 Ask me about<br>• C, C++, Java, JavaScript, Python, MySQL, DBMS<br>• Problem-solving, DSA, and Web Technologies<br>⚡ Fun fact<br>• I can spend hours fixing a bug, only to realize it was a missing semicolon! 😆<br>• When I’m not coding, you’ll find me gaming and strategizing my next win! 🎮🔥<br>
 
 
 ## 🌐 Socials:
